@@ -1,3 +1,4 @@
-*.[oa]
-src/lua
-src/luac
+Makefile
+*.mk
+*.Makefile
+/out
